@@ -1,0 +1,13 @@
+{
+    "package-name":"Shippy",
+    "version":"1.0",
+    "compiler":"C:/cygnus/cygwin-b20/H-i586-cygwin32/bin/g++.exe",
+    "src-folder":"src",
+	"package-folder":"packages",
+	"bin-folder":"bin",
+    "entry-point":"main.cpp",
+    "packages":{
+        "memory.cpp":"https://github.com/LilTim0/y/blob/main/src/compiler/memory.cpp",
+        "memory.hpp":"https://github.com/LilTim0/y/blob/main/src/compiler/memory.hpp"
+    }
+}
